@@ -7,4 +7,4 @@ l=20
 f=0
 kj=25
 print(l)
-
+print(f)
