@@ -5,6 +5,6 @@ print(z)
 n=50
 l=20
 f=0
-
+kj=25
 print(l)
 
